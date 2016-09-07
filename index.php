@@ -1,8 +1,5 @@
-// Author : Mahender
-
-
-<html>
+<HTML>
 <body>
-<?php echo '<p>HELLO WORLD'</p>;?>
+<?php echo '<p> HELLO WORLD </P>';?>
 </body>
-</html>
+</HTML>
